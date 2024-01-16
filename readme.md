@@ -1,0 +1,1 @@
+Exercice effectué lors de la formation Développeur web/web mobile de Simplon : créer un réseau social.
